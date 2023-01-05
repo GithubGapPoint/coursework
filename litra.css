@@ -1,0 +1,30 @@
+.govern_container {
+    border: 1px solid salmon;
+}
+
+.cards {
+    padding: 10px;
+}
+
+.cards .in1,
+.in2,
+.in3,
+.in4,
+.in5,
+.in6,
+.in7 {
+    min-width: 100%;
+    padding: 10px;
+    font-size: 25px;
+    border: 1px solid red;
+}
+
+.card .btn {
+    font-size: 25px;
+    border: 2px solid salmon;
+    margin-top: 10px;
+}
+
+.card .res {
+    font-size: 25px;
+}
